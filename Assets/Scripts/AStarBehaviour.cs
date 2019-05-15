@@ -8,6 +8,12 @@ public class AStarBehaviour : MonoBehaviour {
 
     public GameObject Node;
 
+    public GameObject StartPoint;
+
+    public GameObject Goal;
+
+    public GameObject Barrier;
+
 
 	void Start ()
     {
